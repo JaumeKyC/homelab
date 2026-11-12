@@ -5,6 +5,7 @@ Esto es  un laboratorio personal donde aprendo y mejoro mis habilidades como dev
 ## La aplicación
 La idea es crear una API en Python con PostgreSQL.
 Primera idea: Una API para registrar y gestionar servidores, aplicaciones y servicios.
+
 Funcionalidades:
 - Registrar servidores (nombre, IP, entorno y sistema operativo).
 - Registrar servicios desplegados en cada servidor.
@@ -21,4 +22,4 @@ Funcionalidades:
 5. **GitOps y observabilidad:** Argo CD, Prometheus y Grafana
 
 ## Estado
-0. **Laboratorio:** WSL2, Docker Engine, Git y GitHub
+En construcción: 0. **Laboratorio:** WSL2, Docker Engine, Git y GitHub
