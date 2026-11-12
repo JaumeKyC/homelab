@@ -3,6 +3,8 @@
 *.tfstate.*
 .terraform/
 *.tfvars
+*.tfvars.json
+*.tfplan
 
 # Variables de entorno
 .env
@@ -12,3 +14,15 @@
 
 # Kubernetes
 kubeconfig*
+
+#Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+
+# Claves AWS y SSH
+*.pem
+*.key
